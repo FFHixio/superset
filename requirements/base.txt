@@ -280,7 +280,7 @@ typing-extensions==3.7.4.3
 #   aiohttp
 #   apache-superset
 #   yarl
-urllib3==1.25.11
+urllib3==1.26.5
 # via selenium
 vine==1.3.0
 # via
