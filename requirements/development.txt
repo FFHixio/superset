@@ -41,3 +41,4 @@ xlrd==1.2.0               # via tabulator
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
