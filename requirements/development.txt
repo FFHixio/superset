@@ -22,7 +22,7 @@ jsonlines==1.2.0          # via tabulator
 linear-tsv==1.1.0         # via tabulator
 mysqlclient==1.4.2.post1  # via -r requirements/development.in
 openpyxl==3.0.5           # via tabulator
-pillow==7.2.0             # via -r requirements/development.in
+pillow==8.3.2             # via -r requirements/development.in
 psycopg2-binary==2.8.5    # via -r requirements/development.in
 pydruid==0.6.1            # via -r requirements/development.in
 pygithub==1.54.1          # via -r requirements/development.in
