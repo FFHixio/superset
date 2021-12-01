@@ -10,7 +10,7 @@
   "author": "Apache",
   "license": "Apache-2.0",
   "dependencies": {
-    "@cypress/code-coverage": "^3.9.11",
+    "@cypress/code-coverage": "^3.9.12",
     "@superset-ui/core": "^0.18.8",
     "react-dom": "^16.13.0",
     "rison": "^0.1.1",
