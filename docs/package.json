@@ -27,7 +27,7 @@
     "@mdx-js/react": "^1.6.22",
     "@saucelabs/theme-github-codeblock": "^0.1.1",
     "@superset-ui/style": "^0.14.23",
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^6.0.0",
     "antd": "^4.19.3",
     "buffer": "^6.0.3",
     "clsx": "^1.1.1",
@@ -37,7 +37,7 @@
     "react-dom": "^17.0.1",
     "react-github-btn": "^1.2.0",
     "stream": "^0.0.2",
-    "swagger-ui-react": "^4.1.2",
+    "swagger-ui-react": "^4.7.0",
     "url-loader": "^4.1.1"
   },
   "devDependencies": {
