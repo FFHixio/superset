@@ -145,7 +145,7 @@
     "lodash-es": "^4.17.21",
     "match-sorter": "^6.1.0",
     "memoize-one": "^5.1.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.33",
     "mousetrap": "^1.6.1",
     "mustache": "^2.2.1",
@@ -197,7 +197,7 @@
     "scroll-into-view-if-needed": "^2.2.28",
     "shortid": "^2.2.6",
     "tinycolor2": "^1.4.2",
-    "urijs": "^1.19.8",
+    "urijs": "^1.19.11",
     "use-immer": "^0.6.0",
     "use-query-params": "^1.1.9",
     "yargs": "^15.4.1"
