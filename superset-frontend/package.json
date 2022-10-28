@@ -210,7 +210,7 @@
     "@applitools/eyes-storybook": "^3.27.6",
     "@babel/cli": "^7.18.10",
     "@babel/compat-data": "^7.18.8",
-    "@babel/core": "^7.18.10",
+    "@babel/core": "^7.19.6",
     "@babel/eslint-parser": "^7.18.9",
     "@babel/node": "^7.18.10",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
